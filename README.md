@@ -4,7 +4,7 @@ My first repository
 git checkout -b readme-edits
 # My Favorite Series
 ## Top 3 Shows
-1. **Breaking Bad**  
+1. **Demon Slayer**  
   *Genre:* Crime, Drama  
   _A high school chemistry teacher turned methamphetamine producer._
 2. **Stranger Things**  
