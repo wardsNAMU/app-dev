@@ -27,6 +27,7 @@ _Genre: Comedy_
  - Engaging storylines 
  - Memerable characters 
  - Great writing
+ - Fun and confusing
 
 _*LAVOUGE*_
 
